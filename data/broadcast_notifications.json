@@ -1,0 +1,37 @@
+[
+  {
+    "id": "bc_1794815931334",
+    "title": "test",
+    "message": "test",
+    "category": "Academic Alert",
+    "actionUrl": "/services/project-documentation",
+    "actionText": "View Details",
+    "targetAudience": "All Subscribed Users",
+    "sentAt": "2026-11-16T07:58:51.334Z",
+    "recipientCount": 4,
+    "status": "Delivered"
+  },
+  {
+    "id": "bc_1794815750809",
+    "title": "Academic Deadline: IEEE Project Reports Review Open",
+    "message": "Get your B.Tech/M.Tech major project thesis formatted and plagiarism-verified with Turnitin.",
+    "category": "Academic Alert",
+    "actionUrl": "/services/project-documentation",
+    "actionText": "View Packages",
+    "targetAudience": "All Subscribed Users",
+    "sentAt": "2026-11-16T07:55:50.810Z",
+    "recipientCount": 3,
+    "status": "Delivered"
+  },
+  {
+    "id": "notif_broadcast_1",
+    "title": "Semester Project Submission Deadline Assistance",
+    "message": "Finalizing your IEEE Major Project report? Book your softcopy review or deluxe binding with 24-hour turnaround.",
+    "category": "Academic Alert",
+    "actionUrl": "/services/project-documentation",
+    "actionText": "View Documentation Packages",
+    "sentAt": "2026-11-14T10:00:00.000Z",
+    "recipientCount": 148,
+    "status": "Delivered"
+  }
+]

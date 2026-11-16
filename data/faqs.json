@@ -1,0 +1,66 @@
+[
+  {
+    "id": "faq_1",
+    "question": "How does the project delivery and revision process work?",
+    "answer": "Once you submit your requirements, we prepare an initial draft for your review. You can suggest adjustments and we incorporate feedback before handing over final deliverables.",
+    "category": "General",
+    "order": 1,
+    "published": true
+  },
+  {
+    "id": "faq_2",
+    "question": "What is your pricing model for PPTs and documentation?",
+    "answer": "Pricing starts from ₹49 for simple PPT slides and ₹499 for softcopy documentation. Exact quotations are confirmed based on slide count, custom graphics, and formatting standards.",
+    "category": "Pricing",
+    "order": 2,
+    "published": true
+  },
+  {
+    "id": "faq_3",
+    "question": "Can I get physical bound documentation or printed magazines?",
+    "answer": "Yes! We offer hardcopy deluxe thesis documentation at ₹999 and physical commemorative magazines with customized page counts and print specs.",
+    "category": "Delivery",
+    "order": 3,
+    "published": true
+  },
+  {
+    "id": "faq_4",
+    "question": "What services does Written Expressa provide?",
+    "answer": "We provide Academic Notes & Records, PowerPoint Presentations, Capstone Project Assistance, IEEE Documentation, Custom Commemorative Magazines, and Web/Technical Development.",
+    "category": "Services",
+    "order": 4,
+    "published": true
+  },
+  {
+    "id": "faq_5",
+    "question": "Can I order directly through WhatsApp?",
+    "answer": "Yes! Simply choose your service and click 'ORDER NOW'. Your WhatsApp will open automatically with your prefilled order details to +91 9492801206.",
+    "category": "WhatsApp Ordering",
+    "order": 5,
+    "published": true
+  },
+  {
+    "id": "faq_6",
+    "question": "Do you serve students outside Hyderabad?",
+    "answer": "Yes, Written Expressa serves students, researchers, and professionals pan-India with digital deliverables and nationwide courier delivery for hardcopies.",
+    "category": "General Information",
+    "order": 6,
+    "published": true
+  },
+  {
+    "id": "faq_7",
+    "question": "What payment methods are available?",
+    "answer": "We accept UPI (Google Pay, PhonePe, Paytm), Net Banking, and Bank Transfer. We typically begin with an advance and collect the balance upon milestone approval.",
+    "category": "Payment",
+    "order": 7,
+    "published": true
+  },
+  {
+    "id": "faq_8",
+    "question": "How can I request modifications or revisions?",
+    "answer": "We share draft milestones for your review. You can message us your feedback directly on WhatsApp or email, and we refine the work until you are satisfied.",
+    "category": "Revisions",
+    "order": 8,
+    "published": true
+  }
+]

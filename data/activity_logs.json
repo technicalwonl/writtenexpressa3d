@@ -1,0 +1,322 @@
+[
+  {
+    "id": "act_1794831057826_540",
+    "timestamp": "2026-11-16T12:10:57.826Z",
+    "user": "WE Founder",
+    "action": "LOGIN",
+    "entity": "AUTH",
+    "details": "Admin login successful: wefounder (Super Admin)"
+  },
+  {
+    "id": "act_1794829897845_747",
+    "timestamp": "2026-11-16T11:51:37.845Z",
+    "user": "Admin User",
+    "action": "DELETE",
+    "entity": "PORTFOLIO",
+    "details": "Deleted portfolio project: proj_k2_gwr_video"
+  },
+  {
+    "id": "act_1794829871162_998",
+    "timestamp": "2026-11-16T11:51:11.162Z",
+    "user": "Admin User",
+    "action": "UPDATE",
+    "entity": "SERVICES",
+    "details": "Updated service: Notes & Academic Records -> Notes & Academic Records"
+  },
+  {
+    "id": "act_1794829859489_835",
+    "timestamp": "2026-11-16T11:50:59.489Z",
+    "user": "WE Founder",
+    "action": "LOGIN",
+    "entity": "AUTH",
+    "details": "Admin login successful: wefounder (Super Admin)"
+  },
+  {
+    "id": "act_1794817341311_508",
+    "timestamp": "2026-11-16T08:22:21.311Z",
+    "user": "Admin User",
+    "action": "DELETE",
+    "entity": "TEAM",
+    "details": "Removed team member: @moderator (Review Moderator)"
+  },
+  {
+    "id": "act_1794817336615_334",
+    "timestamp": "2026-11-16T08:22:16.615Z",
+    "user": "Admin User",
+    "action": "DELETE",
+    "entity": "TEAM",
+    "details": "Removed team member: @operations (Operations Lead)"
+  },
+  {
+    "id": "act_1794817329272_780",
+    "timestamp": "2026-11-16T08:22:09.272Z",
+    "user": "Admin User",
+    "action": "UPDATE",
+    "entity": "TEAM",
+    "details": "Updated team user @saisheshank (Super Admin)"
+  },
+  {
+    "id": "act_1794816982578_625",
+    "timestamp": "2026-11-16T08:16:22.578Z",
+    "user": "Admin User",
+    "action": "DELETE",
+    "entity": "TEAM",
+    "details": "Removed team member: @pooja_admin (Pooja Verma)"
+  },
+  {
+    "id": "act_1794816982500_67",
+    "timestamp": "2026-11-16T08:16:22.501Z",
+    "user": "Pooja Verma",
+    "action": "LOGIN",
+    "entity": "AUTH",
+    "details": "Admin login successful: pooja_admin (Admin)"
+  },
+  {
+    "id": "act_1794816982454_922",
+    "timestamp": "2026-11-16T08:16:22.454Z",
+    "user": "Pooja Verma",
+    "action": "CREATE",
+    "entity": "TEAM",
+    "details": "Added team member @pooja_admin as Admin"
+  },
+  {
+    "id": "act_1794816982323_802",
+    "timestamp": "2026-11-16T08:16:22.323Z",
+    "user": "WE Founder",
+    "action": "LOGIN",
+    "entity": "AUTH",
+    "details": "Admin login successful: wefounder (Super Admin)"
+  },
+  {
+    "id": "act_1794816485663_909",
+    "timestamp": "2026-11-16T08:08:05.664Z",
+    "user": "Admin User",
+    "action": "UPDATE",
+    "entity": "SERVICES",
+    "details": "Updated service: Expressa Art Store -> Expressa Art Store"
+  },
+  {
+    "id": "act_1794815931348_321",
+    "timestamp": "2026-11-16T07:58:51.348Z",
+    "user": "Admin User",
+    "action": "BROADCAST",
+    "entity": "NOTIFICATIONS",
+    "details": "Sent broadcast notification: \"test\" to 4 subscriber(s)"
+  },
+  {
+    "id": "act_1794815823243_438",
+    "timestamp": "2026-11-16T07:57:03.244Z",
+    "user": "Admin User",
+    "action": "SUBSCRIBE",
+    "entity": "NOTIFICATIONS",
+    "details": "New user notification subscription: Student Visitor (Web Push Notification)"
+  },
+  {
+    "id": "act_1794815750814_759",
+    "timestamp": "2026-11-16T07:55:50.814Z",
+    "user": "Admin User",
+    "action": "BROADCAST",
+    "entity": "NOTIFICATIONS",
+    "details": "Sent broadcast notification: \"Academic Deadline: IEEE Project Reports Review Open\" to 3 subscriber(s)"
+  },
+  {
+    "id": "act_1794815750705_201",
+    "timestamp": "2026-11-16T07:55:50.705Z",
+    "user": "Admin User",
+    "action": "SUBSCRIBE",
+    "entity": "NOTIFICATIONS",
+    "details": "New user notification subscription: Aditya Varma (Email & Browser)"
+  },
+  {
+    "id": "act_1794815440497_549",
+    "timestamp": "2026-11-16T07:50:40.497Z",
+    "user": "Admin User",
+    "action": "CONTENT_UPDATE",
+    "entity": "WEBSITE_CONTENT",
+    "details": "Updated public website copy and brand sections"
+  },
+  {
+    "id": "act_1794815426139_177",
+    "timestamp": "2026-11-16T07:50:26.139Z",
+    "user": "Admin User",
+    "action": "3D_CONFIG",
+    "entity": "3D_EXPERIENCE",
+    "details": "Updated 3D hero parameters (height: 740vh, lerp: 0.11)"
+  },
+  {
+    "id": "act_1794815319541_34",
+    "timestamp": "2026-11-16T07:48:39.542Z",
+    "user": "Admin User",
+    "action": "ENQUIRY_UPDATE",
+    "entity": "ENQUIRIES",
+    "details": "Updated enquiry undefined: Status changed from New to Quoted"
+  },
+  {
+    "id": "act_1794815234451_476",
+    "timestamp": "2026-11-16T07:47:14.451Z",
+    "user": "Admin User",
+    "action": "TESTIMONIAL_UPDATE",
+    "entity": "TESTIMONIALS",
+    "details": "Review tst_1 status changed from Approved to Approved"
+  },
+  {
+    "id": "act_1794815196528_59",
+    "timestamp": "2026-11-16T07:46:36.528Z",
+    "user": "Admin User",
+    "action": "TESTIMONIAL_UPDATE",
+    "entity": "TESTIMONIALS",
+    "details": "Review tst_1 status changed from Approved to Approved"
+  },
+  {
+    "id": "act_1794815193811_922",
+    "timestamp": "2026-11-16T07:46:33.811Z",
+    "user": "Admin User",
+    "action": "TESTIMONIAL_UPDATE",
+    "entity": "TESTIMONIALS",
+    "details": "Review tst_1 status changed from Approved to Approved"
+  },
+  {
+    "id": "act_1794815191909_972",
+    "timestamp": "2026-11-16T07:46:31.909Z",
+    "user": "Admin User",
+    "action": "TESTIMONIAL_UPDATE",
+    "entity": "TESTIMONIALS",
+    "details": "Review tst_1 status changed from Rejected to Approved"
+  },
+  {
+    "id": "act_1794815189778_45",
+    "timestamp": "2026-11-16T07:46:29.778Z",
+    "user": "Admin User",
+    "action": "TESTIMONIAL_UPDATE",
+    "entity": "TESTIMONIALS",
+    "details": "Review tst_1 status changed from Approved to Rejected"
+  },
+  {
+    "id": "act_1794815188671_825",
+    "timestamp": "2026-11-16T07:46:28.671Z",
+    "user": "Admin User",
+    "action": "TESTIMONIAL_UPDATE",
+    "entity": "TESTIMONIALS",
+    "details": "Review tst_1 status changed from Approved to Approved"
+  },
+  {
+    "id": "act_1794815188617_90",
+    "timestamp": "2026-11-16T07:46:28.617Z",
+    "user": "Admin User",
+    "action": "TESTIMONIAL_UPDATE",
+    "entity": "TESTIMONIALS",
+    "details": "Review tst_1 status changed from Approved to Approved"
+  },
+  {
+    "id": "act_1794815076479_684",
+    "timestamp": "2026-11-16T07:44:36.479Z",
+    "user": "Admin User",
+    "action": "DELETE",
+    "entity": "ENQUIRIES",
+    "details": "Deleted enquiry record: undefined"
+  },
+  {
+    "id": "act_1794810531203_697",
+    "timestamp": "2026-11-16T06:28:51.203Z",
+    "user": "Admin User",
+    "action": "TESTIMONIAL_UPDATE",
+    "entity": "TESTIMONIALS",
+    "details": "Review tst_1794810502073 status changed from Approved to Approved"
+  },
+  {
+    "id": "act_1794810513970_561",
+    "timestamp": "2026-11-16T06:28:33.970Z",
+    "user": "Admin User",
+    "action": "TESTIMONIAL_UPDATE",
+    "entity": "TESTIMONIALS",
+    "details": "Review tst_1794810502073 status changed from Pending to Approved"
+  },
+  {
+    "id": "act_1794810502077_959",
+    "timestamp": "2026-11-16T06:28:22.077Z",
+    "user": "Admin User",
+    "action": "CREATE",
+    "entity": "TESTIMONIALS",
+    "details": "Added review submission from Karthik Verma"
+  },
+  {
+    "id": "act_1794808780857_282",
+    "timestamp": "2026-11-16T05:59:40.860Z",
+    "user": "Admin User",
+    "action": "CREATE",
+    "entity": "PORTFOLIO",
+    "details": "Added portfolio sample: demo video"
+  },
+  {
+    "id": "act_1794808752474_261",
+    "timestamp": "2026-11-16T05:59:12.474Z",
+    "user": "Admin User",
+    "action": "DELETE",
+    "entity": "PORTFOLIO",
+    "details": "Deleted portfolio project: proj_biomed_deck"
+  },
+  {
+    "id": "act_1794808750686_438",
+    "timestamp": "2026-11-16T05:59:10.686Z",
+    "user": "Admin User",
+    "action": "DELETE",
+    "entity": "PORTFOLIO",
+    "details": "Deleted portfolio project: proj_home_auto_pir"
+  },
+  {
+    "id": "act_1794808747454_544",
+    "timestamp": "2026-11-16T05:59:07.454Z",
+    "user": "Admin User",
+    "action": "DELETE",
+    "entity": "PORTFOLIO",
+    "details": "Deleted portfolio project: proj_footstep_gen"
+  },
+  {
+    "id": "act_1794808744417_486",
+    "timestamp": "2026-11-16T05:59:04.417Z",
+    "user": "Admin User",
+    "action": "DELETE",
+    "entity": "PORTFOLIO",
+    "details": "Deleted portfolio project: proj_mag_8pages"
+  },
+  {
+    "id": "act_1794808740384_750",
+    "timestamp": "2026-11-16T05:59:00.384Z",
+    "user": "Admin User",
+    "action": "DELETE",
+    "entity": "PORTFOLIO",
+    "details": "Deleted portfolio project: proj_rose_anim"
+  },
+  {
+    "id": "act_1794808719965_950",
+    "timestamp": "2026-11-16T05:58:39.966Z",
+    "user": "Admin User",
+    "action": "PRICE_CHANGE",
+    "entity": "PRICING",
+    "details": "Changed price for Notes & Records: \"10 Pages: ₹40 | 50 Pages: ₹240 | 100 Pages: ₹480\" -> \"10 Pages: ₹40 | 50 Pages: ₹240 | 100 Pages: ₹480\""
+  },
+  {
+    "id": "act_1794808707759_646",
+    "timestamp": "2026-11-16T05:58:27.759Z",
+    "user": "Admin User",
+    "action": "PRICE_CHANGE",
+    "entity": "PRICING",
+    "details": "Changed price for Notes & Records: \"10 Pages: ₹40 | 50 Pages: ₹240 | 100 Pages: ₹480\" -> \"10 Pages: ₹40 | 50 Pages: ₹240 | 100 Pages: ₹480\""
+  },
+  {
+    "id": "act_1794806300070_356",
+    "timestamp": "2026-11-16T05:18:20.070Z",
+    "user": "Admin User",
+    "action": "UPDATE",
+    "entity": "SERVICES",
+    "details": "Updated service: Notes & Academic Records -> Notes & Academic Records"
+  },
+  {
+    "id": "act_1794806287737_447",
+    "timestamp": "2026-11-16T05:18:07.737Z",
+    "user": "Admin User",
+    "action": "DELETE",
+    "entity": "ENQUIRIES",
+    "details": "Deleted enquiry record: undefined"
+  }
+]

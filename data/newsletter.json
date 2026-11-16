@@ -1,0 +1,23 @@
+[
+  {
+    "id": "sub_1",
+    "email": "student.club@osmania.ac.in",
+    "subscribedAt": "2026-10-15T10:00:00Z",
+    "status": "Subscribed",
+    "source": "Website Footer"
+  },
+  {
+    "id": "sub_2",
+    "email": "kiran.ece@gmail.com",
+    "subscribedAt": "2026-11-01T14:22:00Z",
+    "status": "Subscribed",
+    "source": "Resource Download"
+  },
+  {
+    "id": "sub_3",
+    "email": "sneha.reddy@btech.ac.in",
+    "subscribedAt": "2026-11-10T11:50:00Z",
+    "status": "Subscribed",
+    "source": "Enquiry Form"
+  }
+]

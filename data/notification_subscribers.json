@@ -1,0 +1,38 @@
+[
+  {
+    "id": "sub_1794815823223_706",
+    "name": "Student Visitor",
+    "contact": "Web Push Browser",
+    "type": "Web Push Notification",
+    "browserEnabled": true,
+    "status": "Active",
+    "createdAt": "2026-11-16T07:57:03.224Z"
+  },
+  {
+    "id": "sub_1794815750700_666",
+    "name": "Aditya Varma",
+    "contact": "aditya.v@btech.ac.in",
+    "type": "Email & Browser",
+    "browserEnabled": true,
+    "status": "Active",
+    "createdAt": "2026-11-16T07:55:50.700Z"
+  },
+  {
+    "id": "sub_1",
+    "name": "Harshitha Rao",
+    "contact": "harshitha.r@gmail.com",
+    "type": "Browser & Email",
+    "browserEnabled": true,
+    "status": "Active",
+    "createdAt": "2026-11-10T09:30:00.000Z"
+  },
+  {
+    "id": "sub_2",
+    "name": "Karthik Verma",
+    "contact": "+91 97001 44520",
+    "type": "WhatsApp & Browser",
+    "browserEnabled": true,
+    "status": "Active",
+    "createdAt": "2026-11-12T14:15:00.000Z"
+  }
+]

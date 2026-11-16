@@ -1,0 +1,212 @@
+[
+  {
+    "id": "srv_notes_records",
+    "title": "Notes & Academic Records",
+    "category": "Academic Solutions",
+    "status": "Published",
+    "featured": true,
+    "description": "Professionally prepared academic notes, handwritten records and customized academic materials designed according to your requirements.",
+    "ctaText": "ORDER NOTES & RECORDS",
+    "ctaActionId": "notes-records",
+    "threeDObject": "Floating academic notebook",
+    "highlights": [
+      "Precise handwritten records & lab reports",
+      "Organized course notes with diagrams",
+      "Custom university formatting"
+    ],
+    "pricingModel": "Fixed Tier Pricing",
+    "packages": [
+      {
+        "name": "10 Pages",
+        "price": "₹40",
+        "note": "Handwritten or formatted notes"
+      },
+      {
+        "name": "50 Pages",
+        "price": "₹240",
+        "note": "Standard lab record"
+      },
+      {
+        "name": "100 Pages",
+        "price": "₹480",
+        "note": "Full semester notebook"
+      }
+    ],
+    "updatedAt": "2026-11-16T11:51:11.150Z"
+  },
+  {
+    "id": "srv_ppt",
+    "title": "PowerPoint Presentations",
+    "category": "Creative Design",
+    "status": "Published",
+    "featured": true,
+    "description": "Transform your ideas into visually impressive presentations with professional layouts, attractive themes, diagrams, animations and structured content.",
+    "ctaText": "CREATE MY PRESENTATION",
+    "ctaActionId": "ppt-presentations",
+    "threeDObject": "Laptop with presentation slides",
+    "highlights": [
+      "Simple & Creative PPT tiers",
+      "Engaging animations & vector charts",
+      "Academic defenses & symposiums"
+    ],
+    "pricingModel": "Indicative Range Pricing",
+    "packages": [
+      {
+        "name": "Simple PPT (10–30 Slides)",
+        "price": "₹49 – ₹249",
+        "note": "Clean typography, graphs & structured slides"
+      },
+      {
+        "name": "Creative PPT (10–40 Slides)",
+        "price": "₹99 – ₹400",
+        "note": "Bespoke animations, graphics & dynamic slides"
+      }
+    ],
+    "updatedAt": "2026-11-16T05:05:14.162Z"
+  },
+  {
+    "id": "srv_academic_project",
+    "title": "Academic Project Assistance",
+    "category": "Technical Solutions",
+    "status": "Published",
+    "featured": true,
+    "description": "Get assistance with academic projects, technical concepts, project development, documentation, presentation preparation and project-related requirements.",
+    "ctaText": "DISCUSS MY PROJECT",
+    "ctaActionId": "academic-projects",
+    "threeDObject": "3D technical project model",
+    "highlights": [
+      "Hardware, IoT, AI, software, and embedded systems",
+      "Starting from ₹500 for conceptual review",
+      "Viva preparation guidance"
+    ],
+    "pricingModel": "Indicative Scope Pricing",
+    "packages": [
+      {
+        "name": "Project Guidance & Review",
+        "price": "Starting from ₹500",
+        "note": "Concept assistance & architecture review"
+      },
+      {
+        "name": "Custom Technical Projects",
+        "price": "₹799 – ₹4,999",
+        "note": "Hardware & software capstone builds"
+      }
+    ],
+    "updatedAt": "2026-11-16T05:05:14.162Z"
+  },
+  {
+    "id": "srv_documentation",
+    "title": "Project Documentation",
+    "category": "Academic Solutions",
+    "status": "Published",
+    "featured": true,
+    "description": "Professional project reports and technical documentation with organized content, structured formatting, diagrams, references and polished presentation.",
+    "ctaText": "GET DOCUMENTATION",
+    "ctaActionId": "project-documentation",
+    "threeDObject": "Organized research documents",
+    "highlights": [
+      "IEEE, APA & University guideline compliance",
+      "Softcopy & Hardcopy options",
+      "Complete schematics, SRS & testing"
+    ],
+    "pricingModel": "Package Pricing",
+    "packages": [
+      {
+        "name": "Softcopy Documentation",
+        "price": "₹499",
+        "note": "Formatted PDF & editable Word doc"
+      },
+      {
+        "name": "Hardcopy Documentation",
+        "price": "₹999",
+        "note": "Deluxe bound & printed thesis report"
+      }
+    ],
+    "updatedAt": "2026-11-16T05:05:14.162Z"
+  },
+  {
+    "id": "srv_magazines",
+    "title": "Custom Magazines",
+    "category": "Creative Design",
+    "status": "Published",
+    "featured": true,
+    "description": "Turn your memories, emotions and special moments into beautifully designed personalized magazines.",
+    "ctaText": "CREATE MY MAGAZINE",
+    "ctaActionId": "custom-magazines",
+    "threeDObject": "Rotating hardcover magazine",
+    "highlights": [
+      "College Farewell & Anniversary editions",
+      "Personalized cover with your photos",
+      "Digital flipbook & print-ready CMYK"
+    ],
+    "pricingModel": "Custom Quotation",
+    "packages": [
+      {
+        "name": "Personalized Magazine",
+        "price": "Custom Quotation",
+        "note": "Based on page count and binding"
+      }
+    ],
+    "updatedAt": "2026-11-16T05:05:14.162Z"
+  },
+  {
+    "id": "srv_web_tech",
+    "title": "Web & Technical Services",
+    "category": "Digital Services",
+    "status": "Published",
+    "featured": true,
+    "description": "Modern digital solutions and technical development services designed to bring your ideas to life.",
+    "ctaText": "BUILD MY PROJECT",
+    "ctaActionId": "web-technical",
+    "threeDObject": "Floating desktop monitor",
+    "highlights": [
+      "Portfolio & business websites",
+      "Fullstack development & database schemas",
+      "IoT firmware & sensor interfaces"
+    ],
+    "pricingModel": "Custom Quotation",
+    "packages": [
+      {
+        "name": "Fullstack Web & Technical Solution",
+        "price": "Custom Quotation",
+        "note": "Based on scope and complexity"
+      }
+    ],
+    "updatedAt": "2026-11-16T05:05:14.162Z"
+  },
+  {
+    "id": "srv_art_store",
+    "title": "Expressa Art Store",
+    "category": "Creative Design",
+    "status": "Published",
+    "featured": true,
+    "description": "Handcrafted physical art prints, framed technical sketches, and commemorative student artworks.",
+    "ctaText": "ORDER ART PRINT",
+    "ctaActionId": "art-store",
+    "threeDObject": "Framed art canvas",
+    "highlights": [
+      "Matte archival framing",
+      "Standard academic desk sizes",
+      "Custom personalized prints"
+    ],
+    "pricingModel": "Fixed Tier Pricing",
+    "packages": [
+      {
+        "name": "5×7 Inch Print",
+        "price": "₹149",
+        "note": "Compact framed print"
+      },
+      {
+        "name": "8×10 Inch Print",
+        "price": "₹299",
+        "note": "Standard desk display"
+      },
+      {
+        "name": "11×14 Inch Print",
+        "price": "₹499",
+        "note": "Wall commemorative frame"
+      }
+    ],
+    "updatedAt": "2026-11-16T08:08:05.656Z"
+  }
+]

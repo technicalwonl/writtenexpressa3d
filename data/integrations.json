@@ -1,0 +1,34 @@
+[
+  {
+    "id": "int_whatsapp",
+    "name": "WhatsApp Business Direct Ordering",
+    "provider": "WhatsApp",
+    "status": "Connected & Operational",
+    "details": "Direct ordering and instant consultation routing (+91 9492801206)",
+    "lastSync": "2026-11-16T05:50:45.724Z"
+  },
+  {
+    "id": "int_supabase",
+    "name": "Supabase Database & Storage",
+    "provider": "Supabase",
+    "status": "Configured (Local / Cloud Ready)",
+    "details": "Ready for Supabase cloud credentials; normalized tables synced in data/ layer",
+    "lastSync": "2026-11-16T05:50:45.724Z"
+  },
+  {
+    "id": "int_analytics",
+    "name": "Google Analytics 4 & Internal Tracking",
+    "provider": "Google",
+    "status": "Ready",
+    "details": "GA4 measurement ID hook and local order-intent telemetry active",
+    "lastSync": "2026-11-16T05:50:45.724Z"
+  },
+  {
+    "id": "int_razorpay",
+    "name": "Razorpay Payments Gateway",
+    "provider": "Razorpay",
+    "status": "Architecture Ready",
+    "details": "Indian payment gateway webhook handlers ready for live credentials",
+    "lastSync": null
+  }
+]

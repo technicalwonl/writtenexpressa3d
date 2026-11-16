@@ -1,0 +1,79 @@
+[
+  {
+    "id": "prc_notes",
+    "serviceId": "srv_notes_records",
+    "serviceName": "Notes & Records",
+    "type": "Fixed Tier Pricing",
+    "details": "10 Pages: ₹40 | 50 Pages: ₹240 | 100 Pages: ₹480",
+    "minPrice": 40,
+    "maxPrice": 480,
+    "isCustom": false,
+    "updatedAt": "2026-11-16T05:58:39.949Z"
+  },
+  {
+    "id": "prc_ppt",
+    "serviceId": "srv_ppt",
+    "serviceName": "PowerPoint Presentations",
+    "type": "Indicative Range Pricing",
+    "details": "Simple: ₹49–₹249 | Creative: ₹99–₹400",
+    "minPrice": 49,
+    "maxPrice": 400,
+    "isCustom": false,
+    "updatedAt": "2026-11-16T05:05:14.171Z"
+  },
+  {
+    "id": "prc_projects",
+    "serviceId": "srv_academic_project",
+    "serviceName": "Academic Project Assistance",
+    "type": "Indicative Scope Pricing",
+    "details": "Review: Starting ₹500 | Custom: ₹799–₹4,999",
+    "minPrice": 500,
+    "maxPrice": 4999,
+    "isCustom": false,
+    "updatedAt": "2026-11-16T05:05:14.171Z"
+  },
+  {
+    "id": "prc_doc",
+    "serviceId": "srv_documentation",
+    "serviceName": "Project Documentation",
+    "type": "Package Pricing",
+    "details": "Softcopy: ₹499 | Hardcopy: ₹999",
+    "minPrice": 499,
+    "maxPrice": 999,
+    "isCustom": false,
+    "updatedAt": "2026-11-16T05:05:14.171Z"
+  },
+  {
+    "id": "prc_art",
+    "serviceId": "srv_art_store",
+    "serviceName": "Art Store",
+    "type": "Fixed Tier Pricing",
+    "details": "5×7: ₹149 | 8×10: ₹299 | 11×14: ₹499",
+    "minPrice": 149,
+    "maxPrice": 499,
+    "isCustom": false,
+    "updatedAt": "2026-11-16T05:05:14.171Z"
+  },
+  {
+    "id": "prc_mag",
+    "serviceId": "srv_magazines",
+    "serviceName": "Custom Magazines",
+    "type": "Custom Quotation",
+    "details": "Personalized quotation based on page count and binding",
+    "minPrice": 0,
+    "maxPrice": 0,
+    "isCustom": true,
+    "updatedAt": "2026-11-16T05:05:14.171Z"
+  },
+  {
+    "id": "prc_web",
+    "serviceId": "srv_web_tech",
+    "serviceName": "Web & Technical Services",
+    "type": "Custom Quotation",
+    "details": "Requirement-based pricing based on tech stack and complexity",
+    "minPrice": 0,
+    "maxPrice": 0,
+    "isCustom": true,
+    "updatedAt": "2026-11-16T05:05:14.171Z"
+  }
+]

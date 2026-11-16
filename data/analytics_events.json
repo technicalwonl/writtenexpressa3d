@@ -1,0 +1,32 @@
+[
+  {
+    "id": "evt_1794816399991_298",
+    "timestamp": "2026-11-16T08:06:39.992Z",
+    "eventType": "whatsapp_click",
+    "service": "Project Documentation",
+    "package": "Softcopy Documentation",
+    "price": "₹499",
+    "path": null,
+    "referrer": null
+  },
+  {
+    "id": "evt_1794810153072_541",
+    "timestamp": "2026-11-16T06:22:33.072Z",
+    "eventType": "whatsapp_click",
+    "service": "PowerPoint Presentations",
+    "package": "Simple PPT (10–30 Slides)",
+    "price": "₹49 – ₹249",
+    "path": null,
+    "referrer": null
+  },
+  {
+    "id": "evt_1794808605089_499",
+    "timestamp": "2026-11-16T05:56:45.090Z",
+    "eventType": "whatsapp_click",
+    "service": "Notes & Academic Records",
+    "package": "50 Pages",
+    "price": "₹240",
+    "path": null,
+    "referrer": null
+  }
+]

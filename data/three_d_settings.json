@@ -1,0 +1,8 @@
+{
+  "scrollContainerHeight": 740,
+  "lerpSpeed": 0.11,
+  "enableMouseParallax": true,
+  "mobileMode": "OptimizedCanvas",
+  "desktopFrameRateTarget": 60,
+  "updatedAt": "2026-11-16T07:50:26.133Z"
+}

@@ -1,0 +1,24 @@
+[
+  {
+    "id": "ref_1",
+    "code": "EXPRESSA20",
+    "referrerName": "Rahul Sharma",
+    "email": "rahul.s@gmail.com",
+    "visits": 84,
+    "enquiries": 12,
+    "converted": 3,
+    "rewardEarned": 600,
+    "status": "Active"
+  },
+  {
+    "id": "ref_2",
+    "code": "CAMPUSVIP",
+    "referrerName": "Ananya Patel",
+    "email": "ananya.p@college.edu",
+    "visits": 142,
+    "enquiries": 24,
+    "converted": 7,
+    "rewardEarned": 1400,
+    "status": "Active"
+  }
+]

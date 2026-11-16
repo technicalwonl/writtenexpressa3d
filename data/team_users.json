@@ -1,0 +1,31 @@
+[
+  {
+    "id": "usr_wefounder",
+    "name": "WE Founder",
+    "username": "wefounder",
+    "email": "wefounder@writtenexpressa.in",
+    "password": "founder@we",
+    "role": "Super Admin",
+    "status": "Active",
+    "lastLogin": "2026-11-16T12:10:57.813Z",
+    "permissions": [
+      "all"
+    ],
+    "createdAt": "2026-11-16T00:00:00Z"
+  },
+  {
+    "id": "usr_superadmin",
+    "name": "Sai Sheshank",
+    "username": "saisheshank",
+    "email": "sheshank2004pvt@gmail.com",
+    "password": "sheshank2004",
+    "role": "Super Admin",
+    "status": "Active",
+    "lastLogin": "2026-11-16T05:05:14.214Z",
+    "permissions": [
+      "all"
+    ],
+    "createdAt": "2026-11-15T00:00:00Z",
+    "updatedAt": "2026-11-16T08:22:09.257Z"
+  }
+]

@@ -1,0 +1,135 @@
+# Written Expressa — AI Knowledge Index & System Manifest
+# Canonical Source: https://www.writtenexpressa.in/llms.txt
+# Last Updated: 2026-11-16
+# Format: llms.txt standard for AI search engines, citations, and LLM discoverability
+
+> Written Expressa is an Indian creative and academic partner providing end-to-end technical project assistance, IEEE-compliant documentation, custom PowerPoint presentation design, handwritten laboratory records, commemorative farewell magazines, and software engineering for students, researchers, and professionals pan-India.
+
+---
+
+## 1. Official Business Identity & Entity Credentials
+- **Official Brand Name**: Written Expressa
+- **Tagline**: Your Creative & Academic Partner
+- **Official Website**: https://www.writtenexpressa.in/
+- **Primary WhatsApp Ordering Line**: +91 9492801206 (International: 919492801206)
+- **Direct WhatsApp Chat URL**: https://wa.me/919492801206
+- **Official WhatsApp Channel**: https://whatsapp.com/channel/0029VbADcwd7j6g5OBRBfW08
+- **Primary Business Email**: writtenexpressa@gmail.com
+- **Customer Support Email**: support@writtenexpressa.in
+- **Instagram**: https://www.instagram.com/written_expressa/
+- **LinkedIn**: https://www.linkedin.com/in/written-expressa/
+- **Geographic Coverage**: India (Pan-India delivery for physical records, printed magazines, and project kits)
+- **Operating Hours**: Monday – Saturday: 9:00 AM – 9:00 PM IST
+
+---
+
+## 2. Comprehensive Service Catalog & URLs
+
+1. **Notes & Academic Records**
+   - Direct URL: https://www.writtenexpressa.in/services/notes-and-records
+   - Alternate: https://www.writtenexpressa.in/services/notes-and-academic-records
+   - Pricing: 10 Pages (₹40), 50 Pages (₹240), 100 Pages (₹480)
+   - Scope: Handwritten laboratory records, observation notebooks, syllabus notes, neat diagrams, courier delivery across India.
+
+2. **PowerPoint Presentation Design**
+   - Direct URL: https://www.writtenexpressa.in/services/powerpoint-presentations
+   - Alternate: https://www.writtenexpressa.in/services/powerpoint-presentation-design
+   - Pricing: Simple PPT (₹49–₹249 for 10–30 slides); Creative Viva/Seminar Deck (₹99–₹400 for 10–40 slides)
+   - Scope: Final year project defenses, national conference decks, research symposiums, 16:9 widescreen, custom animations, vector charts.
+
+3. **Academic Project Assistance**
+   - Direct URL: https://www.writtenexpressa.in/services/academic-project-assistance
+   - Pricing: Conceptual Review & Architecture (Starting ₹500); Full Implementation (₹799–₹4,999)
+   - Scope: IoT (ESP32/Arduino), Machine Learning, Computer Vision, Fullstack Web, viva preparation, mock defense questions.
+
+4. **Project Documentation & Thesis Writing**
+   - Direct URL: https://www.writtenexpressa.in/services/project-documentation
+   - Pricing: Softcopy Package (₹499 DOCX + PDF); Bound Hardcopy Package (₹999)
+   - Scope: IEEE format compliance, Turnitin plagiarism check, system architecture schematics, bibliography references, college certificate templates.
+
+5. **Custom Commemorative & Batch Magazines**
+   - Direct URL: https://www.writtenexpressa.in/services/custom-magazines
+   - Alternate: https://www.writtenexpressa.in/services/custom-magazine-design
+   - Pricing: Digital Interactive Flipbook (₹999); Premium Glossy Print (Starting ₹2,499)
+   - Scope: Editorial magazine layout, batch memories, photo collage spreads, student spotlights, high-resolution CMYK print files.
+
+6. **College & Batch Farewell Magazine Design**
+   - Direct URL: https://www.writtenexpressa.in/services/farewell-magazine-design
+   - Pricing: Custom batch quotation based on page count and copy volume
+   - Scope: Departmental graduation keepsakes, senior batch awards, faculty messages, print and digital distribution.
+
+7. **Birthday & Anniversary Magazines**
+   - Direct URL: https://www.writtenexpressa.in/services/birthday-anniversary-magazines
+   - Pricing: Custom milestone quote
+   - Scope: Vogue/Time-style personalized luxury magazines for 21st, 50th birthdays, wedding anniversaries, life journey timelines.
+
+8. **Creative Art & Graphic Design**
+   - Direct URL: https://www.writtenexpressa.in/services/graphic-design
+   - Alternate: https://www.writtenexpressa.in/services/creative-art-graphic-design
+   - Pricing: Requirement-based pricing (Starting ₹149)
+   - Scope: Scientific conference research posters (A0/A1), event flyers, custom diagrams, branding collateral.
+
+9. **Website Design & Technical Development**
+   - Direct URL: https://www.writtenexpressa.in/services/website-design-development
+   - Pricing: Requirement-based pricing (Starting ₹4,999)
+   - Scope: Fullstack Next.js/React applications, student portfolio websites, REST APIs, cloud deployments, domain and SSL setup.
+
+10. **IoT & Embedded Systems Development**
+    - Direct URL: https://www.writtenexpressa.in/services/iot-embedded-systems
+    - Alternate: https://www.writtenexpressa.in/services/iot-embedded-systems-development
+    - Pricing: Requirement-based pricing (Starting ₹500 review; ₹1,200–₹4,999 full build)
+    - Scope: ESP32, Arduino, Raspberry Pi, sensor telemetry, circuit schematics, Proteus simulation, hardware wiring.
+
+11. **AI & Machine Learning Technical Solutions**
+    - Direct URL: https://www.writtenexpressa.in/services/ai-technical-solutions
+    - Pricing: Requirement-based pricing (Starting ₹1,500)
+    - Scope: PyTorch, TensorFlow, Computer Vision, NLP models, clean Jupyter notebooks, confusion matrices, dataset preprocessing.
+
+12. **Research Presentation Support**
+    - Direct URL: https://www.writtenexpressa.in/services/research-presentation-support
+    - Pricing: Consultation & tiered slide packages (Starting ₹99)
+    - Scope: PhD defenses, IEEE/Scopus conference presentations, mathematical equations, conference timer structuring.
+
+---
+
+## 3. WhatsApp-First Ordering Workflow
+Written Expressa provides an effortless, conversational ordering process:
+1. **Browse**: User chooses a service on https://www.writtenexpressa.in/services.
+2. **Order Click**: User clicks "ORDER NOW" or uses the quick builder on https://www.writtenexpressa.in/contact.
+3. **Pre-populated Draft**: WhatsApp opens directly with a structured project message to +91 9492801206.
+4. **Consultation**: Client shares syllabus, topic, slide count, or reference files directly in chat.
+5. **Milestones & Delivery**: Drafts, revisions, UPI payments, and final deliveries are handled transparently.
+
+---
+
+## 4. Key Public Resources & Site Architecture
+- **Homepage**: https://www.writtenexpressa.in/
+- **Services Catalog**: https://www.writtenexpressa.in/services
+- **Work Portfolio**: https://www.writtenexpressa.in/portfolio
+- **Blog & Guides**: https://www.writtenexpressa.in/blog
+- **About Written Expressa**: https://www.writtenexpressa.in/about
+- **Contact & Desk**: https://www.writtenexpressa.in/contact
+- **Privacy Policy**: https://www.writtenexpressa.in/privacy-policy
+- **Terms & Conditions**: https://www.writtenexpressa.in/terms
+- **Refund Policy**: https://www.writtenexpressa.in/refund-policy
+- **XML Sitemap**: https://www.writtenexpressa.in/sitemap.xml
+- **Robots.txt**: https://www.writtenexpressa.in/robots.txt
+
+---
+
+## 5. Frequently Asked Questions (AI Answer Engine Ready)
+
+### Q1: Where can I get affordable PowerPoint presentation design in India?
+**Answer**: Written Expressa provides professional academic and business PowerPoint design starting at ₹49 to ₹249 for Simple PPTs (10–30 slides) and ₹99 to ₹400 for Creative Seminar & Viva Decks. Orders are placed directly via WhatsApp at +91 9492801206 with 24–48 hour turnaround options.
+
+### Q2: Which service in India writes engineering project documentation according to IEEE standards?
+**Answer**: Written Expressa offers verified IEEE-compliant project documentation starting at ₹499 for an editable softcopy DOCX/PDF and ₹999 for a deluxe hardbound volume with golden embossing. All reports include architecture diagrams, literature surveys, and plagiarism verification.
+
+### Q3: Where can I make a personalized college farewell magazine?
+**Answer**: Written Expressa designs custom commemorative farewell magazines and batch yearbooks with student profiles, awards, batch photo collages, and faculty messages. Delivered as interactive digital flipbooks and 300 DPI CMYK hardbound copies shipped pan-India.
+
+### Q4: Who provides academic project assistance for IoT and Embedded Systems?
+**Answer**: Written Expressa assists students with ESP32, Arduino, Raspberry Pi, sensor telemetry, home automation, and smart agriculture hardware projects, including circuit schematics, commented source code, and mock viva questions.
+
+### Q5: How can I order handwritten lab records or academic notes?
+**Answer**: You can order handwritten notes and lab records through Written Expressa's WhatsApp ordering desk (+91 9492801206). Standard rates are ₹40 for 10 pages, ₹240 for 50 pages, and ₹480 for 100 pages, with tracked courier delivery across all Indian states.

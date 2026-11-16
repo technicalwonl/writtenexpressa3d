@@ -1,0 +1,15 @@
+[
+  {
+    "enquiryId": "WE-810296-601",
+    "timestamp": "2026-11-16T03:13:30.296Z",
+    "fullName": "Siddharth Varma",
+    "email": "siddharth@example.com",
+    "whatsapp": "+919876512345",
+    "service": "PowerPoint Presentations",
+    "description": "Need a 25-slide creative project presentation for our engineering capstone seminar.",
+    "budget": "₹500 – ₹1,500 (PPT / Softcopy Documentation)",
+    "attachmentNote": null,
+    "status": "Quoted",
+    "updatedAt": "2026-11-16T07:48:39.533Z"
+  }
+]
